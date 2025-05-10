@@ -1,0 +1,8 @@
+{
+  "name": "testing101",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.19"  // Vulnerable version
+  }
+}
+alksdjalkd=$_
